@@ -20,7 +20,7 @@
 ### 方式一：作为 Claude Code 插件安装
 
 ```
-/plugin marketplace add <你的GitHub用户名>/pharm-lit-cn
+/plugin marketplace add <3226789833tang-crypto>/pharm-lit-cn
 /plugin install pharm-lit-cn@pharm-lit-cn
 ```
 
