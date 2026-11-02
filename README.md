@@ -29,7 +29,7 @@
 ### 方式二：手动配置 MCP（Claude Desktop、Codex 等任意支持 MCP 的客户端）
 
 ```bash
-git clone https://github.com/<你的GitHub用户名>/pharm-lit-cn.git
+git clone https://github.com/<3226789833tang-crypto>/pharm-lit-cn.git
 ```
 
 在客户端的 MCP 配置里加入（路径改成你本机的实际路径）：
